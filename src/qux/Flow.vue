@@ -9,9 +9,14 @@
 </style>
 
 <script>
+import Logger from './Logger'
+
 export default {
   name: 'QUX-Flow',
   components: {
+  },
+  mounted () {
+    Logger.log(5, 'Flow.mounted()', 'enter')
   }
 }
 </script>

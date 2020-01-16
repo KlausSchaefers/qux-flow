@@ -1,6 +1,10 @@
 # qux-flow
 
-## Project setup
+QUX-Flow is a visual editing framework for graphs. It can be used to build for instance workflow 
+editors.
+
+
+# Project setup
 ```
 npm install
 ```
